@@ -1,4 +1,5 @@
-Proyecto con openpyxl
+Proyecto con openpyxl.
+
 Este proyecto utiliza openpyxl para crear, modificar y leer archivos Excel en Python.
 
 1. Instalación
